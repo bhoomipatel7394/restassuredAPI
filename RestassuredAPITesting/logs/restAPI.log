@@ -1,0 +1,1296 @@
+07/10/2022 22:06:50 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:06:57 EmployeeRestAPI ******Check Content Length******
+07/10/2022 22:06:57 EmployeeRestAPI Content Length : null
+07/10/2022 22:06:57 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:06:57 EmployeeRestAPI Content Type : application/json
+07/10/2022 22:06:57 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:06:57 EmployeeRestAPI ******Response Body******
+07/10/2022 22:06:57 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+07/10/2022 22:06:57 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:06:57 EmployeeRestAPI Response Time : 3080
+07/10/2022 22:06:57 EmployeeRestAPI Response time is greater than 2000
+07/10/2022 22:06:57 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:06:57 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:06:57 EmployeeRestAPI ******Status Code******
+07/10/2022 22:06:57 EmployeeRestAPI Status code is :200
+07/10/2022 22:06:57 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:06:57 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+07/10/2022 22:06:57 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+07/10/2022 22:08:20 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:08:24 EmployeeRestAPI ******Check Content Length******
+07/10/2022 22:08:24 EmployeeRestAPI Content Length : null
+07/10/2022 22:08:24 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:08:24 EmployeeRestAPI Content Type : application/json
+07/10/2022 22:08:24 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:08:24 EmployeeRestAPI ******Response Body******
+07/10/2022 22:08:24 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+07/10/2022 22:08:24 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:08:24 EmployeeRestAPI Response Time : 1470
+07/10/2022 22:08:24 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:08:24 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:08:24 EmployeeRestAPI ******Status Code******
+07/10/2022 22:08:24 EmployeeRestAPI Status code is :200
+07/10/2022 22:08:24 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:08:24 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+07/10/2022 22:08:24 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+07/10/2022 22:10:09 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:10:13 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:10:13 EmployeeRestAPI Content Type : application/json
+07/10/2022 22:10:13 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:10:13 EmployeeRestAPI ******Response Body******
+07/10/2022 22:10:13 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+07/10/2022 22:10:13 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:10:13 EmployeeRestAPI Response Time : 1331
+07/10/2022 22:10:13 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:10:13 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:10:13 EmployeeRestAPI ******Status Code******
+07/10/2022 22:10:13 EmployeeRestAPI Status code is :200
+07/10/2022 22:10:13 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:10:13 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+07/10/2022 22:10:13 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+07/10/2022 22:11:42 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:11:45 EmployeeRestAPI ******Check Content Length******
+07/10/2022 22:11:45 EmployeeRestAPI Content Length : null
+07/10/2022 22:11:45 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:11:45 EmployeeRestAPI Content Type : text/html; charset=UTF-8
+07/10/2022 22:11:45 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:11:45 EmployeeRestAPI ******Response Body******
+07/10/2022 22:11:45 EmployeeRestAPI  Response Body : <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+07/10/2022 22:11:45 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:11:45 EmployeeRestAPI Response Time : 1835
+07/10/2022 22:11:45 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:11:45 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:11:45 EmployeeRestAPI ******Status Code******
+07/10/2022 22:11:45 EmployeeRestAPI Status code is :429
+07/10/2022 22:11:45 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:11:45 EmployeeRestAPI Status line : HTTP/1.1 429 Too Many Requests
+07/10/2022 22:11:45 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+07/10/2022 22:13:05 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:13:07 EmployeeRestAPI ******Check Content Length******
+07/10/2022 22:13:07 EmployeeRestAPI Content Length : null
+07/10/2022 22:13:07 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:13:07 EmployeeRestAPI Content Type : text/html; charset=UTF-8
+07/10/2022 22:13:07 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:13:07 EmployeeRestAPI ******Response Body******
+07/10/2022 22:13:07 EmployeeRestAPI  Response Body : <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+07/10/2022 22:13:07 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:13:07 EmployeeRestAPI Response Time : 1409
+07/10/2022 22:13:07 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:13:07 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:13:07 EmployeeRestAPI ******Status Code******
+07/10/2022 22:13:07 EmployeeRestAPI Status code is :429
+07/10/2022 22:13:07 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:13:07 EmployeeRestAPI Status line : HTTP/1.1 429 Too Many Requests
+07/10/2022 22:13:07 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+07/10/2022 22:14:04 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:14:07 EmployeeRestAPI ******Check Content Length******
+07/10/2022 22:14:07 EmployeeRestAPI Content Length : null
+07/10/2022 22:14:07 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:14:07 EmployeeRestAPI Content Type : application/json
+07/10/2022 22:14:07 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:14:07 EmployeeRestAPI ******Response Body******
+07/10/2022 22:14:07 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+07/10/2022 22:14:07 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:14:07 EmployeeRestAPI Response Time : 1353
+07/10/2022 22:14:07 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:14:07 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:14:07 EmployeeRestAPI ******Status Code******
+07/10/2022 22:14:07 EmployeeRestAPI Status code is :200
+07/10/2022 22:14:07 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:14:07 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+07/10/2022 22:14:07 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+07/10/2022 22:19:04 EmployeeRestAPI *********TC001_Get_All_Employees*********
+07/10/2022 22:19:08 EmployeeRestAPI ******Check Content Length******
+07/10/2022 22:19:08 EmployeeRestAPI Content Length : null
+07/10/2022 22:19:08 EmployeeRestAPI ******Checking Content Type******
+07/10/2022 22:19:08 EmployeeRestAPI Content Type : application/json
+07/10/2022 22:19:08 EmployeeRestAPI ******Check Cookies******
+07/10/2022 22:19:08 EmployeeRestAPI ******Response Body******
+07/10/2022 22:19:08 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+07/10/2022 22:19:08 EmployeeRestAPI ******Check Response Time******
+07/10/2022 22:19:08 EmployeeRestAPI Response Time : 1554
+07/10/2022 22:19:08 EmployeeRestAPI ******Checking Server Type******
+07/10/2022 22:19:08 EmployeeRestAPI Server Type : nginx/1.21.6
+07/10/2022 22:19:08 EmployeeRestAPI ******Status Code******
+07/10/2022 22:19:08 EmployeeRestAPI Status code is :200
+07/10/2022 22:19:08 EmployeeRestAPI ******Check Status Line******
+07/10/2022 22:19:08 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+07/10/2022 22:19:08 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 20:55:28 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 20:55:33 EmployeeRestAPI ******Check Content Length******
+08/10/2022 20:55:33 EmployeeRestAPI Content Length : null
+08/10/2022 20:55:33 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 20:55:33 EmployeeRestAPI Content Type : application/json
+08/10/2022 20:55:33 EmployeeRestAPI ******Check Cookies******
+08/10/2022 20:55:33 EmployeeRestAPI ******Response Body******
+08/10/2022 20:55:33 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 20:55:33 EmployeeRestAPI ******Check Response Time******
+08/10/2022 20:55:33 EmployeeRestAPI Response Time : 2735
+08/10/2022 20:55:33 EmployeeRestAPI Response time is greater than 2000
+08/10/2022 20:55:33 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 20:55:33 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 20:55:33 EmployeeRestAPI ******Status Code******
+08/10/2022 20:55:33 EmployeeRestAPI Status code is :200
+08/10/2022 20:55:33 EmployeeRestAPI ******Check Status Line******
+08/10/2022 20:55:33 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 20:55:33 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 20:55:58 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 20:56:02 EmployeeRestAPI ******Check Content Length******
+08/10/2022 20:56:02 EmployeeRestAPI Content Length : null
+08/10/2022 20:56:02 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 20:56:02 EmployeeRestAPI Content Type : application/json
+08/10/2022 20:56:02 EmployeeRestAPI ******Check Cookies******
+08/10/2022 20:56:02 EmployeeRestAPI ******Response Body******
+08/10/2022 20:56:02 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 20:56:02 EmployeeRestAPI ******Check Response Time******
+08/10/2022 20:56:02 EmployeeRestAPI Response Time : 2075
+08/10/2022 20:56:02 EmployeeRestAPI Response time is greater than 2000
+08/10/2022 20:56:02 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 20:56:02 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 20:56:02 EmployeeRestAPI ******Status Code******
+08/10/2022 20:56:02 EmployeeRestAPI Status code is :200
+08/10/2022 20:56:02 EmployeeRestAPI ******Check Status Line******
+08/10/2022 20:56:02 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 20:56:02 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 20:56:44 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 20:56:48 EmployeeRestAPI ******Check Content Length******
+08/10/2022 20:56:48 EmployeeRestAPI Content Length : null
+08/10/2022 20:56:48 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 20:56:48 EmployeeRestAPI Content Type : application/json
+08/10/2022 20:56:48 EmployeeRestAPI ******Check Cookies******
+08/10/2022 20:56:48 EmployeeRestAPI ******Response Body******
+08/10/2022 20:56:48 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 20:56:48 EmployeeRestAPI ******Check Response Time******
+08/10/2022 20:56:48 EmployeeRestAPI Response Time : 1924
+08/10/2022 20:56:48 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 20:56:48 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 20:56:48 EmployeeRestAPI ******Status Code******
+08/10/2022 20:56:48 EmployeeRestAPI Status code is :200
+08/10/2022 20:56:48 EmployeeRestAPI ******Check Status Line******
+08/10/2022 20:56:48 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 20:56:48 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 20:57:58 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 20:58:02 EmployeeRestAPI ******Check Content Length******
+08/10/2022 20:58:02 EmployeeRestAPI Content Length : null
+08/10/2022 20:58:02 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 20:58:02 EmployeeRestAPI Content Type : text/html; charset=UTF-8
+08/10/2022 20:58:02 EmployeeRestAPI ******Check Cookies******
+08/10/2022 20:58:02 EmployeeRestAPI ******Response Body******
+08/10/2022 20:58:02 EmployeeRestAPI  Response Body : <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+08/10/2022 20:58:02 EmployeeRestAPI ******Check Response Time******
+08/10/2022 20:58:02 EmployeeRestAPI Response Time : 1837
+08/10/2022 20:58:02 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 20:58:02 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 20:58:02 EmployeeRestAPI ******Status Code******
+08/10/2022 20:58:02 EmployeeRestAPI Status code is :429
+08/10/2022 20:58:02 EmployeeRestAPI ******Check Status Line******
+08/10/2022 20:58:02 EmployeeRestAPI Status line : HTTP/1.1 429 Too Many Requests
+08/10/2022 20:58:02 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 20:58:22 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 20:58:27 EmployeeRestAPI ******Check Content Length******
+08/10/2022 20:58:27 EmployeeRestAPI Content Length : null
+08/10/2022 20:58:27 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 20:58:27 EmployeeRestAPI Content Type : application/json
+08/10/2022 20:58:27 EmployeeRestAPI ******Check Cookies******
+08/10/2022 20:58:27 EmployeeRestAPI ******Response Body******
+08/10/2022 20:58:27 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 20:58:27 EmployeeRestAPI ******Check Response Time******
+08/10/2022 20:58:27 EmployeeRestAPI Response Time : 2227
+08/10/2022 20:58:27 EmployeeRestAPI Response time is greater than 5000
+08/10/2022 20:58:27 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 20:58:27 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 20:58:27 EmployeeRestAPI ******Status Code******
+08/10/2022 20:58:27 EmployeeRestAPI Status code is :200
+08/10/2022 20:58:27 EmployeeRestAPI ******Check Status Line******
+08/10/2022 20:58:27 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 20:58:27 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:14:47 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:14:50 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:14:50 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:14:50 EmployeeRestAPI ******Response Body******
+08/10/2022 21:14:50 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:14:50 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:14:50 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:14:50 EmployeeRestAPI ******Status Code******
+08/10/2022 21:14:50 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:14:50 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:15:08 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:15:11 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:15:11 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:15:11 EmployeeRestAPI ******Response Body******
+08/10/2022 21:15:11 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:15:11 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:15:11 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:15:11 EmployeeRestAPI ******Status Code******
+08/10/2022 21:15:11 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:15:11 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:15:48 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:15:51 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:15:51 EmployeeRestAPI Content Length : null
+08/10/2022 21:15:51 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:15:51 EmployeeRestAPI Content Type : application/json
+08/10/2022 21:15:51 EmployeeRestAPI ******Check Cookies******
+08/10/2022 21:15:51 EmployeeRestAPI ******Response Body******
+08/10/2022 21:15:51 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 21:15:51 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:15:51 EmployeeRestAPI Response Time : 1745
+08/10/2022 21:15:51 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:15:51 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:15:51 EmployeeRestAPI ******Status Code******
+08/10/2022 21:15:51 EmployeeRestAPI Status code is :200
+08/10/2022 21:15:51 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:15:51 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 21:15:51 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:16:29 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:16:31 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:16:31 EmployeeRestAPI Content Length : null
+08/10/2022 21:16:31 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:16:31 EmployeeRestAPI Content Type : application/json
+08/10/2022 21:16:31 EmployeeRestAPI ******Check Cookies******
+08/10/2022 21:16:31 EmployeeRestAPI ******Response Body******
+08/10/2022 21:16:32 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 21:16:32 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:16:32 EmployeeRestAPI Response Time : 1684
+08/10/2022 21:16:32 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:16:32 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:16:32 EmployeeRestAPI ******Status Code******
+08/10/2022 21:16:32 EmployeeRestAPI Status code is :200
+08/10/2022 21:16:32 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:16:32 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 21:16:32 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:16:54 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:16:57 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:16:57 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:16:57 EmployeeRestAPI ******Response Body******
+08/10/2022 21:16:58 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:16:58 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:16:58 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:16:58 EmployeeRestAPI ******Status Code******
+08/10/2022 21:16:58 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:16:58 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:17:32 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:17:35 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:17:35 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:17:35 EmployeeRestAPI ******Response Body******
+08/10/2022 21:17:35 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:17:35 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:17:35 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:17:35 EmployeeRestAPI ******Status Code******
+08/10/2022 21:17:35 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:17:35 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:20:21 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:20:23 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:20:23 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:20:23 EmployeeRestAPI ******Response Body******
+08/10/2022 21:20:23 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:20:23 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:20:23 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:20:23 EmployeeRestAPI ******Status Code******
+08/10/2022 21:20:23 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:20:24 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:20:35 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:20:39 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:20:39 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:20:39 EmployeeRestAPI ******Response Body******
+08/10/2022 21:20:39 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:20:39 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:20:39 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:20:39 EmployeeRestAPI ******Status Code******
+08/10/2022 21:20:39 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:20:39 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:20:49 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:20:52 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:20:52 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:20:52 EmployeeRestAPI ******Response Body******
+08/10/2022 21:20:52 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:20:52 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:20:52 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:20:52 EmployeeRestAPI ******Status Code******
+08/10/2022 21:20:52 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:20:52 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:21:13 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+08/10/2022 21:21:17 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:21:17 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:21:17 EmployeeRestAPI ******Response Body******
+08/10/2022 21:21:17 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:21:17 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:21:17 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:21:17 EmployeeRestAPI ******Status Code******
+08/10/2022 21:21:17 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:21:17 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:21:55 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:21:58 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:21:58 EmployeeRestAPI Content Length : null
+08/10/2022 21:21:58 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:21:58 EmployeeRestAPI Content Type : application/json
+08/10/2022 21:21:58 EmployeeRestAPI ******Check Cookies******
+08/10/2022 21:21:58 EmployeeRestAPI ******Response Body******
+08/10/2022 21:21:58 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 21:21:58 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:21:58 EmployeeRestAPI Response Time : 1882
+08/10/2022 21:21:58 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:21:58 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:21:58 EmployeeRestAPI ******Status Code******
+08/10/2022 21:21:58 EmployeeRestAPI Status code is :200
+08/10/2022 21:21:58 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:21:58 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 21:21:58 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:22:38 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:22:41 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:22:41 EmployeeRestAPI Content Length : null
+08/10/2022 21:22:41 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:22:41 EmployeeRestAPI Content Type : application/json
+08/10/2022 21:22:41 EmployeeRestAPI ******Check Cookies******
+08/10/2022 21:22:41 EmployeeRestAPI ******Response Body******
+08/10/2022 21:22:41 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 21:22:41 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:22:41 EmployeeRestAPI Response Time : 1665
+08/10/2022 21:22:41 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:22:41 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:22:41 EmployeeRestAPI ******Status Code******
+08/10/2022 21:22:41 EmployeeRestAPI Status code is :200
+08/10/2022 21:22:41 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:22:41 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 21:22:41 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:23:44 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:23:47 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:23:47 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:23:47 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:24:02 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:24:06 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:24:06 EmployeeRestAPI Content Type : application/json
+08/10/2022 21:24:06 EmployeeRestAPI ******Check Cookies******
+08/10/2022 21:24:06 EmployeeRestAPI ******Response Body******
+08/10/2022 21:24:06 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 21:24:06 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:24:06 EmployeeRestAPI Response Time : 1791
+08/10/2022 21:24:06 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:24:06 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:24:06 EmployeeRestAPI ******Status Code******
+08/10/2022 21:24:06 EmployeeRestAPI Status code is :200
+08/10/2022 21:24:06 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:24:06 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 21:24:06 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 21:25:38 EmployeeRestAPI *********TC001_Get_All_Employees*********
+08/10/2022 21:25:40 EmployeeRestAPI ******Check Content Length******
+08/10/2022 21:25:40 EmployeeRestAPI Content Length : null
+08/10/2022 21:25:40 EmployeeRestAPI ******Checking Content Type******
+08/10/2022 21:25:40 EmployeeRestAPI Content Type : application/json
+08/10/2022 21:25:40 EmployeeRestAPI ******Check Cookies******
+08/10/2022 21:25:40 EmployeeRestAPI ******Response Body******
+08/10/2022 21:25:40 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+08/10/2022 21:25:40 EmployeeRestAPI ******Check Response Time******
+08/10/2022 21:25:40 EmployeeRestAPI Response Time : 1319
+08/10/2022 21:25:40 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 21:25:40 EmployeeRestAPI Server Type : nginx/1.21.6
+08/10/2022 21:25:40 EmployeeRestAPI ******Status Code******
+08/10/2022 21:25:40 EmployeeRestAPI Status code is :200
+08/10/2022 21:25:40 EmployeeRestAPI ******Check Status Line******
+08/10/2022 21:25:40 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+08/10/2022 21:25:40 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+08/10/2022 22:15:17 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:15:26 EmployeeRestAPI ******Response Body******
+08/10/2022 22:15:26 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:15:26 EmployeeRestAPI ******Status Code******
+08/10/2022 22:15:26 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:15:26 EmployeeRestAPI ******Checking COntent Encoding******
+08/10/2022 22:15:26 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 22:16:31 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:16:40 EmployeeRestAPI ******Response Body******
+08/10/2022 22:16:40 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:16:40 EmployeeRestAPI ******Status Code******
+08/10/2022 22:16:40 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:16:40 EmployeeRestAPI ******Checking COntent Encoding******
+08/10/2022 22:16:40 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 22:28:37 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:28:45 EmployeeRestAPI ******Response Body******
+08/10/2022 22:28:45 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:28:45 EmployeeRestAPI ******Status Code******
+08/10/2022 22:28:45 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:28:45 EmployeeRestAPI ******Checking Content Encoding******
+08/10/2022 22:28:45 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 22:31:46 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:31:54 EmployeeRestAPI ******Response Body******
+08/10/2022 22:31:54 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:31:54 EmployeeRestAPI ******Status Code******
+08/10/2022 22:31:54 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:31:54 EmployeeRestAPI ******Checking Content Encoding******
+08/10/2022 22:31:54 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 22:42:06 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:42:13 EmployeeRestAPI ******Response Body******
+08/10/2022 22:42:13 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:42:13 EmployeeRestAPI ******Status Code******
+08/10/2022 22:42:13 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:42:13 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 22:44:09 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:44:17 EmployeeRestAPI ******Response Body******
+08/10/2022 22:44:17 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:44:17 EmployeeRestAPI ******Status Code******
+08/10/2022 22:44:17 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:44:17 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 22:57:17 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 22:57:25 EmployeeRestAPI ******Response Body******
+08/10/2022 22:57:25 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 22:57:25 EmployeeRestAPI ******Status Code******
+08/10/2022 22:57:25 EmployeeRestAPI ******Check Status Line******
+08/10/2022 22:57:25 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:11:48 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:11:55 EmployeeRestAPI ******Response Body******
+08/10/2022 23:11:55 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:11:55 EmployeeRestAPI ******Status Code******
+08/10/2022 23:11:55 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:11:55 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:13:30 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:13:38 EmployeeRestAPI ******Response Body******
+08/10/2022 23:13:38 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:13:38 EmployeeRestAPI ******Status Code******
+08/10/2022 23:13:38 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:13:38 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:14:15 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:14:23 EmployeeRestAPI ******Response Body******
+08/10/2022 23:14:23 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:14:23 EmployeeRestAPI ******Status Code******
+08/10/2022 23:14:23 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:14:23 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:22:02 EmployeeRestAPI ******Response Body******
+08/10/2022 23:22:02 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:22:02 EmployeeRestAPI ******Status Code******
+08/10/2022 23:22:02 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:22:02 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:22:53 EmployeeRestAPI ******Response Body******
+08/10/2022 23:22:53 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:35:40 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:35:48 EmployeeRestAPI ******Response Body******
+08/10/2022 23:35:48 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:35:48 EmployeeRestAPI ******Status Code******
+08/10/2022 23:35:48 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:35:48 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:40:12 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:40:20 EmployeeRestAPI ******Response Body******
+08/10/2022 23:40:20 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:40:20 EmployeeRestAPI ******Status Code******
+08/10/2022 23:40:20 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:40:20 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:40:29 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:40:37 EmployeeRestAPI ******Response Body******
+08/10/2022 23:40:37 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:40:37 EmployeeRestAPI ******Status Code******
+08/10/2022 23:40:37 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:40:37 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:46:09 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:46:17 EmployeeRestAPI ******Response Body******
+08/10/2022 23:46:17 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:46:17 EmployeeRestAPI ******Status Code******
+08/10/2022 23:46:17 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:46:17 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:47:48 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:47:56 EmployeeRestAPI ******Response Body******
+08/10/2022 23:47:56 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:47:56 EmployeeRestAPI ******Status Code******
+08/10/2022 23:47:56 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:47:56 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+08/10/2022 23:48:06 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+08/10/2022 23:48:14 EmployeeRestAPI ******Response Body******
+08/10/2022 23:48:14 EmployeeRestAPI ******Checking Server Type******
+08/10/2022 23:48:14 EmployeeRestAPI ******Status Code******
+08/10/2022 23:48:14 EmployeeRestAPI ******Check Status Line******
+08/10/2022 23:48:14 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+09/10/2022 00:03:22 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+09/10/2022 00:03:26 EmployeeRestAPI ******Response Body******
+09/10/2022 00:03:26 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:03:26 EmployeeRestAPI ******Status Code******
+09/10/2022 00:03:26 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:03:26 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+09/10/2022 00:03:33 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+09/10/2022 00:03:37 EmployeeRestAPI ******Response Body******
+09/10/2022 00:03:37 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:03:37 EmployeeRestAPI ******Status Code******
+09/10/2022 00:03:37 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:03:37 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+09/10/2022 00:04:40 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+09/10/2022 00:04:42 EmployeeRestAPI ******Response Body******
+09/10/2022 00:04:42 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:04:42 EmployeeRestAPI ******Status Code******
+09/10/2022 00:04:42 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:04:42 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+09/10/2022 00:10:50 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:10:52 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:10:52 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:10:52 EmployeeRestAPI ******Response Body******
+09/10/2022 00:10:53 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:10:53 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:10:53 EmployeeRestAPI Server Type : Apache
+09/10/2022 00:10:53 EmployeeRestAPI ******Status Code******
+09/10/2022 00:10:53 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:10:53 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:11:31 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:11:34 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:11:34 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:11:34 EmployeeRestAPI ******Response Body******
+09/10/2022 00:11:34 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:11:34 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:11:34 EmployeeRestAPI Server Type : Apache
+09/10/2022 00:11:34 EmployeeRestAPI ******Status Code******
+09/10/2022 00:11:34 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:11:34 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:11:46 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:11:50 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:11:50 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:11:50 EmployeeRestAPI ******Response Body******
+09/10/2022 00:11:50 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:11:50 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:11:50 EmployeeRestAPI Server Type : Apache
+09/10/2022 00:11:50 EmployeeRestAPI ******Status Code******
+09/10/2022 00:11:50 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:11:50 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:17:09 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:17:14 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:17:14 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:17:14 EmployeeRestAPI ******Response Body******
+09/10/2022 00:17:14 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:17:14 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:17:14 EmployeeRestAPI Server Type : Apache
+09/10/2022 00:17:14 EmployeeRestAPI ******Status Code******
+09/10/2022 00:17:14 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:17:14 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:17:29 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:17:33 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:17:33 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:17:33 EmployeeRestAPI ******Response Body******
+09/10/2022 00:17:33 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:17:33 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:17:33 EmployeeRestAPI Server Type : Apache
+09/10/2022 00:17:33 EmployeeRestAPI ******Status Code******
+09/10/2022 00:17:33 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:17:33 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:28:36 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:28:40 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:28:40 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:28:40 EmployeeRestAPI ******Response Body******
+09/10/2022 00:28:40 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:28:40 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:28:40 EmployeeRestAPI Server Type : cloudflare
+09/10/2022 00:28:40 EmployeeRestAPI ******Status Code******
+09/10/2022 00:28:40 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:28:40 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:29:28 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:29:32 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:29:32 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:29:32 EmployeeRestAPI ******Response Body******
+09/10/2022 00:29:32 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:29:32 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:29:32 EmployeeRestAPI Server Type : cloudflare
+09/10/2022 00:29:32 EmployeeRestAPI ******Status Code******
+09/10/2022 00:29:32 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:29:32 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+09/10/2022 00:32:10 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+09/10/2022 00:32:14 EmployeeRestAPI ******Check Content Length******
+09/10/2022 00:32:14 EmployeeRestAPI ******Checking Content Type******
+09/10/2022 00:32:14 EmployeeRestAPI ******Response Body******
+09/10/2022 00:32:14 EmployeeRestAPI ******Check Response Time******
+09/10/2022 00:32:14 EmployeeRestAPI ******Checking Server Type******
+09/10/2022 00:32:14 EmployeeRestAPI Server Type : cloudflare
+09/10/2022 00:32:14 EmployeeRestAPI ******Status Code******
+09/10/2022 00:32:14 EmployeeRestAPI ******Check Status Line******
+09/10/2022 00:32:14 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:32:49 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 20:32:54 EmployeeRestAPI ******Response Body******
+11/10/2022 20:32:54 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:32:54 EmployeeRestAPI ******Status Code******
+11/10/2022 20:32:54 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:32:54 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 20:36:02 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 20:36:10 EmployeeRestAPI ******Response Body******
+11/10/2022 20:36:10 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:36:10 EmployeeRestAPI ******Status Code******
+11/10/2022 20:36:10 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:36:10 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 20:41:48 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 20:41:56 EmployeeRestAPI ******Response Body******
+11/10/2022 20:41:56 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:41:56 EmployeeRestAPI ******Status Code******
+11/10/2022 20:41:56 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:41:56 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 20:43:30 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 20:43:34 EmployeeRestAPI ******Check Content Length******
+11/10/2022 20:43:34 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:43:34 EmployeeRestAPI ******Response Body******
+11/10/2022 20:43:34 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:43:34 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:43:34 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 20:43:34 EmployeeRestAPI ******Status Code******
+11/10/2022 20:43:34 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:43:34 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:44:42 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 20:44:46 EmployeeRestAPI ******Check Content Length******
+11/10/2022 20:44:46 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:44:46 EmployeeRestAPI ******Response Body******
+11/10/2022 20:44:46 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:44:46 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:44:46 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 20:44:46 EmployeeRestAPI ******Status Code******
+11/10/2022 20:44:46 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:44:46 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:45:49 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 20:45:54 EmployeeRestAPI ******Check Content Length******
+11/10/2022 20:45:54 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:45:54 EmployeeRestAPI ******Response Body******
+11/10/2022 20:45:54 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:45:54 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:45:54 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 20:45:54 EmployeeRestAPI ******Status Code******
+11/10/2022 20:45:54 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:45:54 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:47:54 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 20:47:59 EmployeeRestAPI ******Check Content Length******
+11/10/2022 20:47:59 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:47:59 EmployeeRestAPI ******Response Body******
+11/10/2022 20:47:59 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:47:59 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:47:59 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 20:47:59 EmployeeRestAPI ******Status Code******
+11/10/2022 20:47:59 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:47:59 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:51:02 EmployeeRestAPI *********TC001_Get_All_Employees*********
+11/10/2022 20:51:05 EmployeeRestAPI ******Check Content Length******
+11/10/2022 20:51:05 EmployeeRestAPI Content Length : null
+11/10/2022 20:51:05 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:51:05 EmployeeRestAPI Content Type : application/json
+11/10/2022 20:51:05 EmployeeRestAPI ******Check Cookies******
+11/10/2022 20:51:05 EmployeeRestAPI ******Response Body******
+11/10/2022 20:51:05 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+11/10/2022 20:51:05 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:51:05 EmployeeRestAPI Response Time : 1791
+11/10/2022 20:51:05 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:51:05 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 20:51:05 EmployeeRestAPI ******Status Code******
+11/10/2022 20:51:05 EmployeeRestAPI Status code is :200
+11/10/2022 20:51:05 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:51:05 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+11/10/2022 20:51:05 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:52:09 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+11/10/2022 20:52:13 EmployeeRestAPI ******Check Content Length******
+11/10/2022 20:52:13 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:52:13 EmployeeRestAPI ******Response Body******
+11/10/2022 20:52:13 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:52:13 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:52:13 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 20:52:13 EmployeeRestAPI ******Status Code******
+11/10/2022 20:52:13 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:52:13 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:52:49 EmployeeRestAPI *********TC001_Get_All_Employees*********
+11/10/2022 20:52:53 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 20:52:53 EmployeeRestAPI Content Type : application/json
+11/10/2022 20:52:53 EmployeeRestAPI ******Check Cookies******
+11/10/2022 20:52:53 EmployeeRestAPI ******Response Body******
+11/10/2022 20:52:53 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+11/10/2022 20:52:53 EmployeeRestAPI ******Check Response Time******
+11/10/2022 20:52:53 EmployeeRestAPI Response Time : 1712
+11/10/2022 20:52:53 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:52:53 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 20:52:53 EmployeeRestAPI ******Status Code******
+11/10/2022 20:52:53 EmployeeRestAPI Status code is :200
+11/10/2022 20:52:53 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:52:53 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+11/10/2022 20:52:53 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 20:53:14 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 20:53:22 EmployeeRestAPI ******Response Body******
+11/10/2022 20:53:22 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 20:53:22 EmployeeRestAPI ******Status Code******
+11/10/2022 20:53:22 EmployeeRestAPI ******Check Status Line******
+11/10/2022 20:53:22 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 21:10:52 EmployeeRestAPI *********TC001_Get_All_Employees*********
+11/10/2022 21:10:55 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:10:55 EmployeeRestAPI Content Type : application/json
+11/10/2022 21:10:55 EmployeeRestAPI ******Check Cookies******
+11/10/2022 21:10:55 EmployeeRestAPI ******Response Body******
+11/10/2022 21:10:55 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+11/10/2022 21:10:55 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:10:55 EmployeeRestAPI Response Time : 1795
+11/10/2022 21:10:55 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:10:55 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 21:10:55 EmployeeRestAPI ******Status Code******
+11/10/2022 21:10:55 EmployeeRestAPI Status code is :200
+11/10/2022 21:10:55 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:10:55 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+11/10/2022 21:10:55 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:10:55 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+11/10/2022 21:10:56 EmployeeRestAPI ******Check Content Length******
+11/10/2022 21:10:56 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:10:56 EmployeeRestAPI ******Response Body******
+11/10/2022 21:10:56 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:10:56 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:10:56 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 21:10:56 EmployeeRestAPI ******Status Code******
+11/10/2022 21:10:56 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:10:56 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:10:56 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 21:11:01 EmployeeRestAPI ******Response Body******
+11/10/2022 21:11:01 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:11:01 EmployeeRestAPI ******Status Code******
+11/10/2022 21:11:01 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:11:01 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 21:11:01 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+11/10/2022 21:11:07 EmployeeRestAPI ******Response Body******
+11/10/2022 21:11:07 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:11:07 EmployeeRestAPI ******Status Code******
+11/10/2022 21:11:07 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:11:07 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+11/10/2022 21:11:07 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 21:11:08 EmployeeRestAPI ******Check Content Length******
+11/10/2022 21:11:08 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:11:08 EmployeeRestAPI ******Response Body******
+11/10/2022 21:11:08 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:11:08 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:11:08 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 21:11:08 EmployeeRestAPI ******Status Code******
+11/10/2022 21:11:08 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:11:08 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:48:44 EmployeeRestAPI *********TC001_Get_All_Employees*********
+11/10/2022 21:48:47 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:48:47 EmployeeRestAPI Content Type : application/json
+11/10/2022 21:48:47 EmployeeRestAPI ******Check Cookies******
+11/10/2022 21:48:47 EmployeeRestAPI ******Response Body******
+11/10/2022 21:48:47 EmployeeRestAPI  Response Body : {"status":"success","data":[{"id":1,"employee_name":"Tiger Nixon","employee_salary":320800,"employee_age":61,"profile_image":""},{"id":2,"employee_name":"Garrett Winters","employee_salary":170750,"employee_age":63,"profile_image":""},{"id":3,"employee_name":"Ashton Cox","employee_salary":86000,"employee_age":66,"profile_image":""},{"id":4,"employee_name":"Cedric Kelly","employee_salary":433060,"employee_age":22,"profile_image":""},{"id":5,"employee_name":"Airi Satou","employee_salary":162700,"employee_age":33,"profile_image":""},{"id":6,"employee_name":"Brielle Williamson","employee_salary":372000,"employee_age":61,"profile_image":""},{"id":7,"employee_name":"Herrod Chandler","employee_salary":137500,"employee_age":59,"profile_image":""},{"id":8,"employee_name":"Rhona Davidson","employee_salary":327900,"employee_age":55,"profile_image":""},{"id":9,"employee_name":"Colleen Hurst","employee_salary":205500,"employee_age":39,"profile_image":""},{"id":10,"employee_name":"Sonya Frost","employee_salary":103600,"employee_age":23,"profile_image":""},{"id":11,"employee_name":"Jena Gaines","employee_salary":90560,"employee_age":30,"profile_image":""},{"id":12,"employee_name":"Quinn Flynn","employee_salary":342000,"employee_age":22,"profile_image":""},{"id":13,"employee_name":"Charde Marshall","employee_salary":470600,"employee_age":36,"profile_image":""},{"id":14,"employee_name":"Haley Kennedy","employee_salary":313500,"employee_age":43,"profile_image":""},{"id":15,"employee_name":"Tatyana Fitzpatrick","employee_salary":385750,"employee_age":19,"profile_image":""},{"id":16,"employee_name":"Michael Silva","employee_salary":198500,"employee_age":66,"profile_image":""},{"id":17,"employee_name":"Paul Byrd","employee_salary":725000,"employee_age":64,"profile_image":""},{"id":18,"employee_name":"Gloria Little","employee_salary":237500,"employee_age":59,"profile_image":""},{"id":19,"employee_name":"Bradley Greer","employee_salary":132000,"employee_age":41,"profile_image":""},{"id":20,"employee_name":"Dai Rios","employee_salary":217500,"employee_age":35,"profile_image":""},{"id":21,"employee_name":"Jenette Caldwell","employee_salary":345000,"employee_age":30,"profile_image":""},{"id":22,"employee_name":"Yuri Berry","employee_salary":675000,"employee_age":40,"profile_image":""},{"id":23,"employee_name":"Caesar Vance","employee_salary":106450,"employee_age":21,"profile_image":""},{"id":24,"employee_name":"Doris Wilder","employee_salary":85600,"employee_age":23,"profile_image":""}],"message":"Successfully! All records has been fetched."}
+11/10/2022 21:48:47 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:48:47 EmployeeRestAPI Response Time : 1337
+11/10/2022 21:48:47 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:48:47 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 21:48:47 EmployeeRestAPI ******Status Code******
+11/10/2022 21:48:47 EmployeeRestAPI Status code is :200
+11/10/2022 21:48:47 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:48:47 EmployeeRestAPI Status line : HTTP/1.1 200 OK
+11/10/2022 21:48:47 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:48:47 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+11/10/2022 21:48:48 EmployeeRestAPI ******Check Content Length******
+11/10/2022 21:48:48 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:48:48 EmployeeRestAPI ******Response Body******
+11/10/2022 21:48:48 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:48:48 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:48:48 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 21:48:48 EmployeeRestAPI ******Status Code******
+11/10/2022 21:48:48 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:48:48 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:48:48 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 21:48:53 EmployeeRestAPI ******Response Body******
+11/10/2022 21:48:53 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:48:53 EmployeeRestAPI ******Status Code******
+11/10/2022 21:48:53 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:48:53 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 21:48:53 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+11/10/2022 21:48:59 EmployeeRestAPI ******Response Body******
+11/10/2022 21:48:59 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:48:59 EmployeeRestAPI ******Status Code******
+11/10/2022 21:48:59 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:48:59 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+11/10/2022 21:48:59 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 21:49:01 EmployeeRestAPI ******Check Content Length******
+11/10/2022 21:49:01 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:49:01 EmployeeRestAPI ******Response Body******
+11/10/2022 21:49:01 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:49:01 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:49:01 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 21:49:01 EmployeeRestAPI ******Status Code******
+11/10/2022 21:49:01 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:49:01 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:49:31 EmployeeRestAPI *********TC001_Get_All_Employees*********
+11/10/2022 21:49:34 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:49:34 EmployeeRestAPI Content Type : text/html; charset=UTF-8
+11/10/2022 21:49:34 EmployeeRestAPI ******Check Cookies******
+11/10/2022 21:49:34 EmployeeRestAPI ******Response Body******
+11/10/2022 21:49:34 EmployeeRestAPI  Response Body : <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+11/10/2022 21:49:34 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:49:34 EmployeeRestAPI Response Time : 1111
+11/10/2022 21:49:34 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:49:34 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 21:49:34 EmployeeRestAPI ******Status Code******
+11/10/2022 21:49:34 EmployeeRestAPI Status code is :429
+11/10/2022 21:49:34 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:49:34 EmployeeRestAPI Status line : HTTP/1.1 429 Too Many Requests
+11/10/2022 21:49:34 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:49:34 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+11/10/2022 21:49:34 EmployeeRestAPI ******Check Content Length******
+11/10/2022 21:49:34 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:49:34 EmployeeRestAPI ******Response Body******
+11/10/2022 21:49:34 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:49:34 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:49:34 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 21:49:34 EmployeeRestAPI ******Status Code******
+11/10/2022 21:49:34 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:49:34 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 21:49:34 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 21:49:40 EmployeeRestAPI ******Response Body******
+11/10/2022 21:49:40 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:49:40 EmployeeRestAPI ******Status Code******
+11/10/2022 21:49:40 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:49:40 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 21:49:40 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+11/10/2022 21:49:45 EmployeeRestAPI ******Response Body******
+11/10/2022 21:49:45 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:49:45 EmployeeRestAPI ******Status Code******
+11/10/2022 21:49:45 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:49:45 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+11/10/2022 21:49:45 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 21:49:47 EmployeeRestAPI ******Check Content Length******
+11/10/2022 21:49:47 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 21:49:47 EmployeeRestAPI ******Response Body******
+11/10/2022 21:49:47 EmployeeRestAPI ******Check Response Time******
+11/10/2022 21:49:47 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 21:49:47 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 21:49:47 EmployeeRestAPI ******Status Code******
+11/10/2022 21:49:47 EmployeeRestAPI ******Check Status Line******
+11/10/2022 21:49:47 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 22:02:29 EmployeeRestAPI *********TC001_Get_All_Employees*********
+11/10/2022 22:02:32 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 22:02:32 EmployeeRestAPI Content Type : text/html; charset=UTF-8
+11/10/2022 22:02:32 EmployeeRestAPI ******Check Cookies******
+11/10/2022 22:02:32 EmployeeRestAPI ******Response Body******
+11/10/2022 22:02:32 EmployeeRestAPI  Response Body : <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title>Too Many Requests</title>
+
+        <!-- Fonts -->
+        <link rel="dns-prefetch" href="//fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+
+        <!-- Styles -->
+        <style>
+            html, body {
+                background-color: #fff;
+                color: #636b6f;
+                font-family: 'Nunito', sans-serif;
+                font-weight: 100;
+                height: 100vh;
+                margin: 0;
+            }
+
+            .full-height {
+                height: 100vh;
+            }
+
+            .flex-center {
+                align-items: center;
+                display: flex;
+                justify-content: center;
+            }
+
+            .position-ref {
+                position: relative;
+            }
+
+            .code {
+                border-right: 2px solid;
+                font-size: 26px;
+                padding: 0 15px 0 15px;
+                text-align: center;
+            }
+
+            .message {
+                font-size: 18px;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="flex-center position-ref full-height">
+            <div class="code">
+                429            </div>
+
+            <div class="message" style="padding: 10px;">
+                Too Many Requests            </div>
+        </div>
+    </body>
+</html>
+
+11/10/2022 22:02:32 EmployeeRestAPI ******Check Response Time******
+11/10/2022 22:02:32 EmployeeRestAPI Response Time : 1087
+11/10/2022 22:02:32 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 22:02:32 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 22:02:32 EmployeeRestAPI ******Status Code******
+11/10/2022 22:02:32 EmployeeRestAPI Status code is :429
+11/10/2022 22:02:32 EmployeeRestAPI ******Check Status Line******
+11/10/2022 22:02:32 EmployeeRestAPI Status line : HTTP/1.1 429 Too Many Requests
+11/10/2022 22:02:32 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 22:02:32 EmployeeRestAPI *********TC001_Get_Single_Employee*********
+11/10/2022 22:02:32 EmployeeRestAPI ******Check Content Length******
+11/10/2022 22:02:32 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 22:02:32 EmployeeRestAPI ******Response Body******
+11/10/2022 22:02:32 EmployeeRestAPI ******Check Response Time******
+11/10/2022 22:02:32 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 22:02:32 EmployeeRestAPI Server Type : nginx/1.21.6
+11/10/2022 22:02:32 EmployeeRestAPI ******Status Code******
+11/10/2022 22:02:32 EmployeeRestAPI ******Check Status Line******
+11/10/2022 22:02:32 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+11/10/2022 22:02:32 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+11/10/2022 22:02:38 EmployeeRestAPI ******Response Body******
+11/10/2022 22:02:38 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 22:02:38 EmployeeRestAPI ******Status Code******
+11/10/2022 22:02:38 EmployeeRestAPI ******Check Status Line******
+11/10/2022 22:02:38 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+11/10/2022 22:02:38 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+11/10/2022 22:02:43 EmployeeRestAPI ******Response Body******
+11/10/2022 22:02:43 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 22:02:43 EmployeeRestAPI ******Status Code******
+11/10/2022 22:02:43 EmployeeRestAPI ******Check Status Line******
+11/10/2022 22:02:43 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+11/10/2022 22:02:43 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+11/10/2022 22:02:45 EmployeeRestAPI ******Check Content Length******
+11/10/2022 22:02:45 EmployeeRestAPI ******Checking Content Type******
+11/10/2022 22:02:45 EmployeeRestAPI ******Response Body******
+11/10/2022 22:02:45 EmployeeRestAPI ******Check Response Time******
+11/10/2022 22:02:45 EmployeeRestAPI ******Checking Server Type******
+11/10/2022 22:02:45 EmployeeRestAPI Server Type : cloudflare
+11/10/2022 22:02:45 EmployeeRestAPI ******Status Code******
+11/10/2022 22:02:45 EmployeeRestAPI ******Check Status Line******
+11/10/2022 22:02:45 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+12/10/2022 19:49:56 EmployeeRestAPI *********TC001_Delete_Employee_Record*********
+12/10/2022 19:50:00 EmployeeRestAPI ******Check Content Length******
+12/10/2022 19:50:00 EmployeeRestAPI ******Checking Content Type******
+12/10/2022 19:50:00 EmployeeRestAPI ******Response Body******
+12/10/2022 19:50:00 EmployeeRestAPI ******Check Response Time******
+12/10/2022 19:50:00 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 19:50:00 EmployeeRestAPI Server Type : cloudflare
+12/10/2022 19:50:00 EmployeeRestAPI ******Status Code******
+12/10/2022 19:50:00 EmployeeRestAPI ******Check Status Line******
+12/10/2022 19:50:00 EmployeeRestAPI ******Finished TC001_Get_All_Employees******
+12/10/2022 19:58:47 EmployeeRestAPI ******Started TC003_Post_Employee_Record***
+12/10/2022 19:58:55 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 19:59:17 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 19:59:25 EmployeeRestAPI ******Response Body******
+12/10/2022 19:59:25 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 19:59:25 EmployeeRestAPI ******Status Code******
+12/10/2022 19:59:25 EmployeeRestAPI ******Check Status Line******
+12/10/2022 19:59:25 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+12/10/2022 20:01:29 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:01:37 EmployeeRestAPI ******Response Body******
+12/10/2022 20:01:37 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:01:37 EmployeeRestAPI ******Status Code******
+12/10/2022 20:01:37 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:01:37 EmployeeRestAPI ******Finished TC003_Post_New_Employee_Record******
+12/10/2022 20:02:19 EmployeeRestAPI ******Started TC003_Post_Employee_Record***
+12/10/2022 20:02:28 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:04:27 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:04:35 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:05:37 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:05:44 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:06:38 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:06:48 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:07:20 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+12/10/2022 20:07:29 EmployeeRestAPI ******Response Body******
+12/10/2022 20:07:29 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:07:29 EmployeeRestAPI Server Type : Apache
+12/10/2022 20:07:29 EmployeeRestAPI ******Status Code******
+12/10/2022 20:07:29 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:07:29 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+12/10/2022 20:07:42 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+12/10/2022 20:07:50 EmployeeRestAPI ******Response Body******
+12/10/2022 20:07:50 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:07:50 EmployeeRestAPI Server Type : Apache
+12/10/2022 20:07:50 EmployeeRestAPI ******Status Code******
+12/10/2022 20:07:50 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:07:50 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+12/10/2022 20:08:01 EmployeeRestAPI *********TC004_Put_Employee_Record*********
+12/10/2022 20:08:09 EmployeeRestAPI ******Response Body******
+12/10/2022 20:08:09 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:08:09 EmployeeRestAPI Server Type : Apache
+12/10/2022 20:08:09 EmployeeRestAPI ******Status Code******
+12/10/2022 20:08:09 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:08:09 EmployeeRestAPI ******Finished TC004_Put_Employee_Record******
+12/10/2022 20:09:23 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:09:32 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:11:19 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:11:27 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:11:40 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:11:49 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:11:57 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:12:06 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:12:34 EmployeeRestAPI *********TC003_Post_New_Employee_Record*********
+12/10/2022 20:12:43 EmployeeRestAPI ****Finished TC003_Post_Employee_Record****
+12/10/2022 20:19:31 EmployeeRestAPI *********TC005_Delete_Employee_Record*********
+12/10/2022 20:19:37 EmployeeRestAPI ******Check Content Length******
+12/10/2022 20:19:37 EmployeeRestAPI ******Checking Content Type******
+12/10/2022 20:19:37 EmployeeRestAPI ******Response Body******
+12/10/2022 20:19:37 EmployeeRestAPI ******Check Response Time******
+12/10/2022 20:19:37 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:19:37 EmployeeRestAPI Server Type : cloudflare
+12/10/2022 20:19:37 EmployeeRestAPI ******Status Code******
+12/10/2022 20:19:37 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:19:37 EmployeeRestAPI ******Finished TC005_Delete_Employee_Record******
+12/10/2022 20:37:48 EmployeeRestAPI *********TC005_Delete_Employee_Record*********
+12/10/2022 20:38:03 EmployeeRestAPI ******Check Content Length******
+12/10/2022 20:38:03 EmployeeRestAPI ******Checking Content Type******
+12/10/2022 20:38:03 EmployeeRestAPI Content Type : null
+12/10/2022 20:38:03 EmployeeRestAPI ******Response Body******
+12/10/2022 20:38:03 EmployeeRestAPI ******Check Response Time******
+12/10/2022 20:38:03 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:38:03 EmployeeRestAPI Server Type : cloudflare
+12/10/2022 20:38:03 EmployeeRestAPI ******Status Code******
+12/10/2022 20:38:03 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:38:03 EmployeeRestAPI ******Finished TC005_Delete_Employee_Record******
+12/10/2022 20:38:35 EmployeeRestAPI *********TC005_Delete_Employee_Record*********
+12/10/2022 20:38:47 EmployeeRestAPI ******Check Content Length******
+12/10/2022 20:38:47 EmployeeRestAPI ******Checking Content Type******
+12/10/2022 20:38:47 EmployeeRestAPI Content Type : null
+12/10/2022 20:38:47 EmployeeRestAPI ******Response Body******
+12/10/2022 20:38:47 EmployeeRestAPI ******Check Response Time******
+12/10/2022 20:38:47 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:38:47 EmployeeRestAPI Server Type : cloudflare
+12/10/2022 20:38:47 EmployeeRestAPI ******Status Code******
+12/10/2022 20:38:47 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:38:47 EmployeeRestAPI ******Finished TC005_Delete_Employee_Record******
+12/10/2022 20:41:41 EmployeeRestAPI *********TC005_Delete_Employee_Record*********
+12/10/2022 20:41:54 EmployeeRestAPI ******Check Content Length******
+12/10/2022 20:41:54 EmployeeRestAPI ******Checking Content Type******
+12/10/2022 20:41:54 EmployeeRestAPI Content Type : null
+12/10/2022 20:41:54 EmployeeRestAPI ******Response Body******
+12/10/2022 20:41:54 EmployeeRestAPI  Response Body : 
+12/10/2022 20:41:55 EmployeeRestAPI ******Check Response Time******
+12/10/2022 20:41:55 EmployeeRestAPI ******Checking Server Type******
+12/10/2022 20:41:55 EmployeeRestAPI Server Type : cloudflare
+12/10/2022 20:41:55 EmployeeRestAPI ******Status Code******
+12/10/2022 20:41:55 EmployeeRestAPI ******Check Status Line******
+12/10/2022 20:41:55 EmployeeRestAPI ******Finished TC005_Delete_Employee_Record******

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [restassuredtestsuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="EmployeesrestAPITest(failed)">
+    <classes>
+      <class name="com.employeeapi.testCases.TC005_Delete_Employee_record">
+        <methods>
+          <include name="tearDown"/>
+          <include name="checkResponseBody"/>
+          <include name="setup"/>
+          <include name="checkContentType"/>
+          <include name="getEmployeeData"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC005_Delete_Employee_record -->
+      <class name="com.employeeapi.testCases.TC004_Put_Employee_Record">
+        <methods>
+          <include name="checkResponseBody"/>
+          <include name="checkServertype"/>
+          <include name="tearDown"/>
+          <include name="getEmployeeData"/>
+          <include name="checkStatusLine"/>
+          <include name="setup"/>
+          <include name="checkStatusCode"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC004_Put_Employee_Record -->
+      <class name="com.employeeapi.testCases.TC003_Post_New_Employee_Record">
+        <methods>
+          <include name="checkServertype"/>
+          <include name="checkStatusLine"/>
+          <include name="setup"/>
+          <include name="getEmployeeData"/>
+          <include name="checkStatusCode"/>
+          <include name="tearDown"/>
+          <include name="checkResponseBody"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC003_Post_New_Employee_Record -->
+    </classes>
+  </test> <!-- EmployeesrestAPITest(failed) -->
+</suite> <!-- Failed suite [restassuredtestsuite] -->
